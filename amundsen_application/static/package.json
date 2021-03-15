@@ -98,7 +98,7 @@
     "lint-staged": "^10.2.11",
     "mini-css-extract-plugin": "^0.4.5",
     "moment-locales-webpack-plugin": "^1.2.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^5.0.0",
     "postcss": "^7.0.30",
     "prettier": "^2.0.5",
     "react-docgen-typescript-loader": "^3.7.2",
