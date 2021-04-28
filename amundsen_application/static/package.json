@@ -100,7 +100,7 @@
     "moment-locales-webpack-plugin": "^1.2.0",
     "node-sass": "^4.14.1",
     "postcss": "^7.0.30",
-    "prettier": "^2.0.5",
+    "prettier": "^2.2.1",
     "react-docgen-typescript-loader": "^3.7.2",
     "redux-mock-store": "^1.5.4",
     "redux-saga": "^1.1.3",
